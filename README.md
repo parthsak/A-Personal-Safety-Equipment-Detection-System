@@ -20,3 +20,5 @@ Head detection - Here we can find that as in the dataset there are less head dat
 
 ## Notes
 * The project details: link
+
+## References 
